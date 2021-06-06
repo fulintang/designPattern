@@ -9,6 +9,6 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>ex_1_00_FactoryMethod</artifactId>
+    <artifactId>ex_1_00_factory</artifactId>
     
 </project>

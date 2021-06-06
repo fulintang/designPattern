@@ -52,8 +52,8 @@
     </dependencies>
 
     <modules>
-        <module>ex_1_00_FactoryMethod</module>
-        <module>ex_1_01_FactoryMethod</module>
+        <module>ex_1_00_factory</module>
+        <module>ex_1_01_factory</module>
         <module>ex_3_00_builder</module>
         <module>ex_3_01_builder</module>
         <module>ex_3_02_builder</module>

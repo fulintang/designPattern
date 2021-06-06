@@ -9,7 +9,14 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>ex_1_01_FactoryMethod</artifactId>
-
-
+    <artifactId>ex_1_01_factory</artifactId>
+    
+    <dependencies>
+        <dependency>
+            <groupId>com.tang</groupId>
+            <artifactId>ex_1_00_factory</artifactId>
+            <version>0.0.1</version>
+        </dependency>
+    </dependencies>
+    
 </project>
