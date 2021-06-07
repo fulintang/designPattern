@@ -58,6 +58,7 @@
         <module>ex_3_01_builder</module>
         <module>ex_3_02_builder</module>
         <module>ex_5_00_singleton</module>
+        <module>ex_6_00_adapter</module>
     </modules>
 
 
