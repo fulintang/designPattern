@@ -46,6 +46,9 @@ public class BillingServiceImpl implements IBillingService {
                         if ("yellow".equals(carInfo.getLicenseCollor())) {
                             return "黄牌车收费模式";
                         }
+                        if ("blue".equals(carInfo.getLicenseCollor())) {
+                            return "蓝牌车收费模式";
+                        }
                     }
 
                 } else {
