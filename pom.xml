@@ -61,6 +61,11 @@
         <module>ex_6_00_adapter</module>
         <module>ex_7_01_bridging</module>
         <module>ex_7_02_bridging</module>
+        <module>ex_20_01_strategy</module>
+        <module>ex_20_02_strategy</module>
+        <module>ex_8_01_portfolio</module>
+        <module>ex_8_02_portfolio</module>
+        <module>ex_8_00_portfolio</module>
     </modules>
 
 
