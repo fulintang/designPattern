@@ -1,15 +1,20 @@
 package com.tang;
 
+import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.NoArgsConstructor;
+import lombok.ToString;
 
 import java.util.Map;
 
 /**
  * 入参对象
  * award 奖
- *
  */
 @Data
+@NoArgsConstructor
+@AllArgsConstructor
+@ToString
 public class AwardReq {
 
     private String uId;                 // 用户唯一ID
