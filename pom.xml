@@ -66,6 +66,9 @@
         <module>ex_8_01_portfolio</module>
         <module>ex_8_02_portfolio</module>
         <module>ex_8_00_portfolio</module>
+        <module>ex_19_00_state</module>
+        <module>ex_19_01_state</module>
+        <module>ex_19_02_state</module>
     </modules>
 
 
